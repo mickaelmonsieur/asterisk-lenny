@@ -9,7 +9,7 @@ Il vous suffit d'installer Docker sur votre machine et d'executer la commande su
 ```
 docker run -ti -p 5060:5060/udp \
 --name asterisk-lenny --hostname asterisk-lenny \
--d --restart unless-stopped asterisk-lenny:latest
+-d --restart unless-stopped mickaelmonsieur/asterisk-lenny:latest
 
 ```
 
