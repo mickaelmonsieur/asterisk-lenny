@@ -1,0 +1,2 @@
+
+docker run -ti -p 5060:5060/udp -p 5060:5060/tcp --name asterisk_lenny --hostname asterisk_lenny -d --restart unless-stopped asterisk-lenny:latest
