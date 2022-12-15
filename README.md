@@ -17,11 +17,7 @@ Asterisk écoutera sur le port UDP 5060 et toutes les adresses SIP (*@0.0.0.0:50
 
 Quelques exemples d'URI valides : +3228889716@192.0.2.1:5060, 028889716@10.1.1.1, 9716@172.17.0.7:5060,...
 
-Vous l'aurez peut être deviné, le but est double : 
-
-1. Pouvoir rediriger n'importe quel DID vers votre Asterisk sans devoir ajouter une extension dans le dialplan.
-2. Piéger également les robots scanneurs de serveurs SIP en répondant à tous leurs INVITE avec Lenny.
-
+Il nous vous reste plus qu'rediriger n'importe quel DID vers votre Asterisk sans devoir ajouter une extension dans le dialplan.
 
 ## Crédits
 
