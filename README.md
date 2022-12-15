@@ -27,4 +27,4 @@ Vous l'aurez peut être deviné, le but est double :
 
 * Mango de toao.net
 * crosstalk solutions
-* Richard Klein pour les fichiers vocaux francophones de Robert, entre autre.
+* Richard Klein pour les fichiers vocaux francophones de Robert, entre autre. https://m2mdevice.blogspot.com/2021/07/lenny-robert-sous-asteriskfreepbx.html
